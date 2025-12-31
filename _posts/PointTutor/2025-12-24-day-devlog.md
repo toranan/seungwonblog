@@ -3,6 +3,7 @@ title: "DevLog 2025-12-24"
 date: 2025-12-24
 categories: [PointTutor]
 tags: [TIL, DevLog]
+permalink: /posts/pointtutor-2025-12-24/
 ---
 
 # DevLog 2025-12-24
