@@ -1,7 +1,7 @@
 ---
 title: "DevLog 2025-12-22"
 date: 2025-12-22
-categories: [DevLog]
+categories: [CodeBrainer]
 tags: [TIL, CodeBrainer, 주간요약]
 ---
 

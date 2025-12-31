@@ -1,7 +1,7 @@
 ---
 title: "AI 힌트 기능 강화 및 Gemini API 연동 개발 로그 (2025년 11월 24일 주간)"
 date: 2025-11-24
-categories: [DevLog]
+categories: [CodeBrainer]
 tags: [TIL, CodeBrainer, 주간요약]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "보안 강화 및 모의고사 시스템 구축 완료! (2025년 11월 17일 개발 로그)"
 date: 2025-11-17
-categories: [DevLog]
+categories: [CodeBrainer]
 tags: [TIL, CodeBrainer, 주간요약]
 ---
 
