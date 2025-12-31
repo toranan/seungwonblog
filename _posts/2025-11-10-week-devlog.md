@@ -1,7 +1,7 @@
 ---
 title: "DevLog 2025-11-10"
 date: 2025-11-10
-categories: [DevLog, CodeBrainer]
+categories: [DevLog]
 tags: [TIL, CodeBrainer, 주간요약]
 ---
 
