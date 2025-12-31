@@ -2,7 +2,8 @@
 title: "이번 주 개발 일지: 도커 환경 구축 가이드, 사용자 초대 기능, 그리고 친절한 문서 업데이트 🚀 (2025-10-27 주간)"
 date: 2025-10-27
 categories: [CodeBrainer]
-tags: [TIL, CodeBrainer, 주간요약]
+tags: [TIL, DevLog, 주간요약]
+permalink: /posts/codebrainer-week-2025-10-27/
 ---
 
 # 이번 주 개발 일지: 도커 환경 구축 가이드, 사용자 초대 기능, 그리고 친절한 문서 업데이트 🚀 (2025-10-27 주간)

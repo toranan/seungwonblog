@@ -2,7 +2,8 @@
 title: "DevLog 2025-12-22"
 date: 2025-12-22
 categories: [CodeBrainer]
-tags: [TIL, CodeBrainer, 주간요약]
+tags: [TIL, DevLog, 주간요약]
+permalink: /posts/codebrainer-week-2025-12-22/
 ---
 
 ## NeoCodeBrainer 마이그레이션 가이드 추가 및 프로젝트 정리 🚀

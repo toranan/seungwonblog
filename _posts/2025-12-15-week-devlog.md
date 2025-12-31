@@ -2,7 +2,8 @@
 title: "DevLog 2025-12-15"
 date: 2025-12-15
 categories: [CodeBrainer]
-tags: [TIL, CodeBrainer, 주간요약]
+tags: [TIL, DevLog, 주간요약]
+permalink: /posts/codebrainer-week-2025-12-15/
 ---
 
 ## 2025년 12월 15일 주간 개발 로그: 문서 정비와 발표자료 업데이트

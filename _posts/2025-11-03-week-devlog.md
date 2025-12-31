@@ -2,7 +2,8 @@
 title: "DevLog 2025-11-03"
 date: 2025-11-03
 categories: [CodeBrainer]
-tags: [TIL, CodeBrainer, 주간요약]
+tags: [TIL, DevLog, 주간요약]
+permalink: /posts/codebrainer-week-2025-11-03/
 ---
 
 ## CodeBrainer 개발 일지: 2025년 11월 첫째 주 - 완전한 제출 시스템 구축 및 사용자 경험 개선

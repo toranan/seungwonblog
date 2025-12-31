@@ -2,7 +2,8 @@
 title: "DevLog 2025-12-29"
 date: 2025-12-29
 categories: [CodeBrainer]
-tags: [TIL, CodeBrainer, 주간요약]
+tags: [TIL, DevLog, 주간요약]
+permalink: /posts/codebrainer-week-2025-12-29/
 ---
 
 ## 개발 로그: 미니멀리즘을 향하여 - 사용하지 않는 코드 정리 주간 (2025-12-29)

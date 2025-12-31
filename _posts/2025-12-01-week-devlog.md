@@ -2,7 +2,8 @@
 title: "DevLog 2025-12-01"
 date: 2025-12-01
 categories: [CodeBrainer]
-tags: [TIL, CodeBrainer, 주간요약]
+tags: [TIL, DevLog, 주간요약]
+permalink: /posts/codebrainer-week-2025-12-01/
 ---
 
 ## 2025년 12월 첫째 주 개발 회고: AI 어시스턴트 모드 초기 구현과 인프라 안정화 삽질기 😅

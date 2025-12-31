@@ -2,7 +2,8 @@
 title: "DevLog 2025-10-06"
 date: 2025-10-06
 categories: [CodeBrainer]
-tags: [TIL, CodeBrainer, 주간요약]
+tags: [TIL, DevLog, 주간요약]
+permalink: /posts/codebrainer-week-2025-10-06/
 ---
 
 ## 문제 풀이 현황 한눈에! 문제 목록 페이지 및 요약 기능 추가 ✨

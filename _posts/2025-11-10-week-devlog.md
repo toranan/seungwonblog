@@ -2,7 +2,8 @@
 title: "DevLog 2025-11-10"
 date: 2025-11-10
 categories: [CodeBrainer]
-tags: [TIL, CodeBrainer, 주간요약]
+tags: [TIL, DevLog, 주간요약]
+permalink: /posts/codebrainer-week-2025-11-10/
 ---
 
 ## AI 코드 리뷰 고도화와 Gemini API 연동 삽질기 (2025년 11월 10일 주간 개발 로그)

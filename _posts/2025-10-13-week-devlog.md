@@ -2,7 +2,8 @@
 title: "코드 실행 엔진 통합과 오케스트레이션 서비스 구축 - 2025년 10월 13일 개발 일지"
 date: 2025-10-13
 categories: [CodeBrainer]
-tags: [TIL, CodeBrainer, 주간요약]
+tags: [TIL, DevLog, 주간요약]
+permalink: /posts/codebrainer-week-2025-10-13/
 ---
 
 # 코드 실행 엔진 통합과 오케스트레이션 서비스 구축 - 2025년 10월 13일 개발 일지

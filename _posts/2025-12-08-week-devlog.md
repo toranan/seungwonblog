@@ -2,7 +2,8 @@
 title: "AI 힌트 기능 구현 및 Gemini API 연동 삽질기 (2025-12-08 주간 개발 로그)"
 date: 2025-12-08
 categories: [CodeBrainer]
-tags: [TIL, CodeBrainer, 주간요약]
+tags: [TIL, DevLog, 주간요약]
+permalink: /posts/codebrainer-week-2025-12-08/
 ---
 
 # AI 힌트 기능 구현 및 Gemini API 연동 삽질기 (2025-12-08 주간 개발 로그)
