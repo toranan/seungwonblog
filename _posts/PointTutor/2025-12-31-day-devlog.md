@@ -1,7 +1,7 @@
 ---
 title: "DevLog 2025-12-31"
 date: 2025-12-31
-categories: [PointTutor]
+categories: [DevLog, PointTutor]
 tags: [TIL, DevLog]
 permalink: /posts/pointtutor-2025-12-31-day/
 ---
