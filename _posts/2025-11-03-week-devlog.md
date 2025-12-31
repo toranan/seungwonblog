@@ -1,7 +1,7 @@
 ---
 title: "DevLog 2025-11-03"
 date: 2025-11-03
-categories: [CodeBrainer]
+categories: [DevLog, CodeBrainer]
 tags: [TIL, DevLog, 주간요약]
 permalink: /posts/codebrainer-week-2025-11-03/
 ---
