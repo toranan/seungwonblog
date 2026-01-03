@@ -1,43 +1,36 @@
-# Chirpy Starter
+# 🚀 SeungWon's DevLog
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+[![Blog](https://img.shields.io/badge/Blog-toranan.github.io-blue?style=for-the-badge&logo=github)](https://toranan.github.io/seungwonblog)
+[![GitHub](https://img.shields.io/badge/GitHub-toranan-black?style=for-the-badge&logo=github)](https://github.com/toranan)
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+> 개발하면서 배운 것들과 문제 해결 과정을 기록하는 공간입니다.
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+## 🔗 블로그 바로가기
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+**[https://toranan.github.io/seungwonblog](https://toranan.github.io/seungwonblog)**
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+## 📁 프로젝트별 DevLog
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+| 프로젝트 | 설명 | 링크 |
+|---------|------|------|
+| 🎓 **PointTutor** | AI 기반 학습 튜터 | [DevLog](https://toranan.github.io/seungwonblog/categories/pointtutor/) |
+| 🎮 **QuizBubble** | 실시간 퀴즈 게임 | [DevLog](https://toranan.github.io/seungwonblog/categories/quizbubble/) |
+| 🧠 **CodeBrainer** | 코드 학습 도구 | [DevLog](https://toranan.github.io/seungwonblog/categories/codebrainer/) |
 
-## Usage
+## 🛠️ 기술 스택
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-## Contributing
+## ✍️ 최근 포스트
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+- 구독 플랜 시스템 및 관리자 대시보드 구현
+- 중복 등록 방지 및 회원 삭제 기능 추가
+- AI 기반 과제 분석 기능 개선
 
-## License
+---
 
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+*Built with [Jekyll](https://jekyllrb.com/) & [Chirpy Theme](https://github.com/cotes2020/jekyll-theme-chirpy)*
